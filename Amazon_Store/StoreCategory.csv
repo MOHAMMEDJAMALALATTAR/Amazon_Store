@@ -1,0 +1,7 @@
+Id,NameItem,Id,NameSubcategory,CategoryId,Id,Name,Id,Name
+1,"Bathing   ",1,"Baby Care ",1,1,"Baby      ",1,"Baby      "
+2,"Baby Food ",2,"Feeding   ",1,1,"Baby      ",1,"Baby      "
+8,"Hair      ",3,"Hair Care ",2,2,"Weman     ",2,"Weman     "
+9,"Face      ",4,"Makeup    ",2,2,"Weman     ",2,"Weman     "
+10,"Shorts    ",5,"Clothing  ",3,3,"Man       ",3,"Man       "
+11,"Belt      ",8,Accessorie,3,3,"Man       ",3,"Man       "
